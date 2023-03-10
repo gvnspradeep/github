@@ -2,7 +2,7 @@ package Warmup1;
 
 public class SumDouble {
     public static void main(String[] args){
-        checkSumDouble(2,3);
+        checkSumDouble(2,2);
     }
     public static void checkSumDouble(int a,int b){
         if(a==b){
