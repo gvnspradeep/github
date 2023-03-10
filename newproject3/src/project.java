@@ -14,8 +14,7 @@ public class project {
     }
     public static void printNameSixTimes(String a){
         for(int i=0;i<6;i++){
-        System.out.println(a);
+            System.out.println(a);
         }
     }
-
 }
